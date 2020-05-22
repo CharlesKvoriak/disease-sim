@@ -1,0 +1,4 @@
+Number of dots =
+Infection Radius = 
+Distancing Radius = 
+Distance After Number Of Cases =
